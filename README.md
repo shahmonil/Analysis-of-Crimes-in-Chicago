@@ -1,1 +1,1 @@
-# Analysis-of-Crime-Detection-in-Chicago
+# Analysis-of-Crimes-in-Chicago
